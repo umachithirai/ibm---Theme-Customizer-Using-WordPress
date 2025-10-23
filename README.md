@@ -28,7 +28,7 @@ User Accessibility: Making sure the theme is accessible to users with disabiliti
 
 🚀 How to Run the Theme
 
-Clone the Repository git clone https://github.com/Anis-88/ibm--theme-customizer.git
+Clone the Repository git clone https://github.com/umachithirai/ibm---Theme-Customizer-Using-WordPress.git .
 
 Install the Theme
 
