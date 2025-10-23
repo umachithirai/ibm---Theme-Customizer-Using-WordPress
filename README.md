@@ -1,7 +1,4 @@
-
-
-
-Project Description
+📝 Project Description
 
 Theme Customizer is a WordPress theme designed to replicate the aesthetic and functionality of design language. It allows users to easily modify various aspects of their website's appearance without delving into complex coding. This theme is particularly beneficial for developers and businesses aiming to maintain a consistent and professional look aligned with IBM's branding guidelines.
 
@@ -28,3 +25,22 @@ Maintaining Responsiveness: Ensuring the theme adapts seamlessly to various scre
 Performance Optimization: Balancing design aesthetics with website loading speed.
 
 User Accessibility: Making sure the theme is accessible to users with disabilities, adhering to WCAG standards.
+
+🚀 How to Run the Theme
+
+Clone the Repository git clone https://github.com/Anis-88/ibm--theme-customizer.git
+
+Install the Theme
+
+Log in to your WordPress admin dashboard.
+
+Navigate to Appearance > Themes > Add New.
+
+Click on Upload Theme, choose the ibm--theme-customizer.zip file, and click Install Now.
+
+After installation, click Activate to set the theme live.
+
+Customize the Theme
+Go to Appearance > Customize.
+
+Modify settings such as colors, typography, and layout to match your preferences.
